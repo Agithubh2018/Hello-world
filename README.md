@@ -1,2 +1,6 @@
 # Hello-world
-First Reository
+First Repository
+Hi Dudes
+
+Anthony here, My first change to Feature Branch
+Soon going to commit change
